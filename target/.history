@@ -1,0 +1,7 @@
+run
+h2-browser
+run
+clean
+run
+h2-browser
+run
